@@ -1,10 +1,15 @@
 package tareas_git;
 import java.util.Scanner;
+
 public class NumerosAleatorios {
-	public void adivinaNumero() {
+	public static void main(String[]args) {
+		adivinaNumero();
+	}
+	
+	public static void adivinaNumero() {
 		Scanner sc=new Scanner(System.in);
 	
-		int numero=GeneradorAleatorios.numeroAleatorio();
+		int numero = (int)(Math.random()*10+1);
 		
 		boolean correcto=false;
 		 System.out.println("Juego iniciado\n");
@@ -22,4 +27,6 @@ public class NumerosAleatorios {
 		}
 		}
 	}
+
+	
 }
