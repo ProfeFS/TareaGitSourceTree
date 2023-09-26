@@ -8,6 +8,8 @@ public class Principal {
 		 * No debe ser borrado. Es parte del programa.
 		 */
 		System.out.println("El resultado de la suma es: " + TareaEjemplo.ejecutaSuma());
+		
+	
 	}
 
 }
