@@ -2,7 +2,7 @@ package tareas_git;
 
 import java.util.Scanner;
 
-public class Tarea11 {
+public class impuestos_prestamo_inversion {
 
 	public static void main(String[] args) {
 
