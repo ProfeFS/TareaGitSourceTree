@@ -10,7 +10,8 @@ public class Calculadora_Simple {
 
 	public static void calculadora() {
 		System.out.println();
-		System.out.println("|||  Bienbenido a la calculadora simple. |||");
+		System.out.println("|||  Bienvenido a la calculadora simple. |||");
+
 		System.out.println("-------------------------------------------");
 		System.out.println("Ingresa número 1: ");
 		num1 = entrada.nextDouble();
