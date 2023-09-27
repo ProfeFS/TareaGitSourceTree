@@ -14,7 +14,11 @@ public class Principal {
 		 * Agragar vuestros nombres uno debajo del otro.
 		 * Gynny
 		 * Andrés
+<<<<<<< HEAD
 		 * Adrián
+=======
+		 * Miriam
+>>>>>>> 69da54729523518b3234d847c9d0f81320171a53
 		 */
 
 	}
