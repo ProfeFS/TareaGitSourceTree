@@ -15,6 +15,13 @@ public class Principal {
 		 * Agragar vuestros nombres uno debajo del otro.
 		 * Gynny
 
+		 * Andrés
+
+		 * Adrián
+
+		 * Javier
+		 * Miriam
+
 		 * Erik
 		 * Andrés		
 		 * 
