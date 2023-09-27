@@ -26,7 +26,11 @@ public class CalculadoraEdad {
 
         return fechaDeNacimiento;
     }
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> beb11712072755de9c06f74c37419e5d7f628b42
 
 
     private static LocalDate obtenerFechaActual() {
