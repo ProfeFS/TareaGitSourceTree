@@ -8,14 +8,20 @@ public class Principal {
 		 * No debe ser borrado. Es parte del programa.
 		 */
 		System.out.println("El resultado de la suma es: " + TareaEjemplo.ejecutaSuma());
-		
+		Dados_aleatorios.dado();
 
 		/*
 		 * Agragar vuestros nombres uno debajo del otro.
 		 * Gynny
 		 * Andrés
+		 * Marcos
+		 * Javier
+		 * Adrián
+		 * Javier
 		 * Miriam
 		 * Andrea
+		 * Jorge
+		 * Juan
 		 */
 
 	}
