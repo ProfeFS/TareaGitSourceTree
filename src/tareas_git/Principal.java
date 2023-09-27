@@ -9,11 +9,12 @@ public class Principal {
 		 */
 
 
-
 		/*
 		 * Agragar vuestros nombres uno debajo del otro.
 		 * Gynny
 		 * Andrés
+		 * Marcos
+		 * Long
 		 * Javier
 		 * Adrián
 		 * Javier
@@ -21,7 +22,8 @@ public class Principal {
 		 * Jorge
 		 * Juan
 		 * Mireia
-		 */
+		 * Juan
+		*/
 
 
 	}
